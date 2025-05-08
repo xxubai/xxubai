@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XBaith&show_icons=true&theme=ambient_gradient)](https://github.com/XBaith/github-readme-stats)
+[![Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxubai&show_icons=true&theme=ambient_gradient)](https://github.com/XBaith/github-readme-stats)
